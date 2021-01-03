@@ -1,5 +1,5 @@
 # Doctors-Office-SQL
-Conceptual database design that is to be used to store, track, and retrieve doctor and patient information
+Conceptual database design that is to be used to store, track, and retrieve doctor and patient information. Worked on over the course of August 2020 alongside my T INFO 410 Database Design class in order to translate course knowledge into tangible work.
 
 Business Requirements:
 
